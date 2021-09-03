@@ -27,16 +27,15 @@ Econect-server/target  necessário
 
 As seguintes ferramentas foram usadas na construção do projeto:
                  
-
-   <ul> 
+<ul> 
   <li><a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%2012.0-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a></li>
   <li><a href="https://www.mysql.com">
     <img src="https://img.shields.io/badge/MySQL_v1.7-316192?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  </a> </li>
+  </a> </li>                                                                                                                     
   <li><a href="https://spring.io/projects/spring-boot">
-    <img src="https://img.shields.io/badge/Spring_Boot_2.5.1-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot_2.1.6-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
   </a></li>
   <li><a href="https://maven.apache.org/">
     <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
@@ -44,16 +43,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
    <li><a href="https://projectlombok.org/">
     <img src="https://img.shields.io/badge/Lombok_1.18.8-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
   </a></li>
-   <li><a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="amazon">
-   </a></li>
    <li><a href="https://sites.google.com/site/gson/gson-user-guide">
     <img src="https://img.shields.io/badge/gson_2.8.5-007CFF?&style=for-the-badge&logo=&logoColor=white" alt="gson">
   </a></li>
    <li><a href="https://www.h2database.com/html/main.html">
     <img src="https://img.shields.io/badge/h2database_1.4.199-43B02A?&style=for-the-badge&logo=white" alt="h2database">
-  </a></li>                                                                                                                            
-    </ul>                            
+  </a></li>
+   <li> <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+  </a> </li>                                                                                                                     
+</ul>                            
                                                                                                                                        
 
 ## 🚀 Como executar o Econect-Server
