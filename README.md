@@ -38,11 +38,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Spring_Boot_2.1.6-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
   </a></li>
   <li><a href="https://site.mockito.org/">
-    <img src="https://img.shields.io/badge/Mockito_1.9.5-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mockito">
+    <img src="https://img.shields.io/badge/Mockito_1.9.5-6DB33F?style=for-the-badge&logo=Mocha&logoColor=white" alt="mockito">
   </a></li>                                                                                                                                          
   <li><a href="https://maven.apache.org/">
     <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
   </a></li>
+    <li><a href="https://projectlombok.org/">
+    <img src="https://img.shields.io/badge/Xstream_1.4.11.1-black?style=for-the-badge&logo=xrp&logoColor=Black" alt="Xstream">
+  </a></li>                                                                                                                                               
    <li><a href="https://projectlombok.org/">
     <img src="https://img.shields.io/badge/Lombok_1.18.8-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
   </a></li>
