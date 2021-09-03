@@ -37,6 +37,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <li><a href="https://spring.io/projects/spring-boot">
     <img src="https://img.shields.io/badge/Spring_Boot_2.1.6-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot">
   </a></li>
+  <li><a href="https://site.mockito.org/">
+    <img src="https://img.shields.io/badge/Mockito_1.9.5-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mockito">
+  </a></li>                                                                                                                                          
   <li><a href="https://maven.apache.org/">
     <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
   </a></li>
