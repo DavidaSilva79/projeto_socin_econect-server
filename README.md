@@ -8,11 +8,7 @@
 ## 💻 Econect-Server
                  
 O econect-server é responsável por por fazer o intermédio entre o econect e a Orizon uma plataforma PBM (Programa de Benefício em Medicamentos) que oferece descontos para medicamentos. O econect faz uma requisição para o econect-server e o mesmo se comunica com a Orizon.
-  
-
-Mvn clean install 
-Econect-server/target  necessário 
-            
+              
 🚧 Em construção... 🚧
 ## Tópicos
 
