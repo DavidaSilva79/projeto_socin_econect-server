@@ -312,7 +312,7 @@ Lista de Plug-ins utilizados:
 - No terminal vá até o diretório BaseAmbiente que foi copiado fora do projeto
 - Use o seguinte comando "docker-compose -f teste.yml up -d"
                                                                                                
-### 🎁 Geração de executavel produção
+### 🎁 Geração do executavel de produção
                                                                                                                  
 - Fazer o build usando o mvn clean install
 - O artefato gerado se encontra dentro do econect-server no diretório target
